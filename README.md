@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mak-Lobo
-- 👀 I’m interested in cybersecurity and Flutter development
+- 👀 Enthusiastic upcoming Flutter developer.
 - 🌱 I’m currently learning Python and Flutter
 - 📫 How to reach me: markknjoroge03@gmail.com
 
